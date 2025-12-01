@@ -1,2 +1,2 @@
-# task_12
-size file dir
+# task_12 
+Calculating the size of a directory
